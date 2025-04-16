@@ -2,7 +2,7 @@
 :root {
     --bg-color: #f2f2f2;
     --card-bg: #ffffff;
-    --border-color: #fa57dc;
+    --border-color: #e0e0e0;
     --primary-color: #007AFF;
     --text-color: #333333;
     --text-secondary: #666666;
@@ -167,7 +167,7 @@ body {
 /* หน้าหลัก */
 .homepage {
     padding: 20px;
-    background-color: #f9f9f9;
+    background-color: #ff8aeb;
     overflow-y: auto;
 }
 
@@ -194,7 +194,7 @@ body {
 
 /* Infographic Section */
 .infographic {
-    background-color: white;
+    background-color: #fa4ddd;
     border-radius: 15px;
     padding: 20px;
     margin: 20px 0;
@@ -217,7 +217,7 @@ body {
 
 /* Infographic Items */
 .info-item {
-    background-color: #f9f9f9;
+    background-color: #fc17d6;
     border-radius: 10px;
     padding: 15px;
     display: flex;
